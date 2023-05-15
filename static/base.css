@@ -1,0 +1,14 @@
+input [type=text],
+input [type=password],
+input [type=submit] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+}
+
+#id_body {
+    width: 100%;
+    padding: 20px;
+    margin: 10px;
+}
+
